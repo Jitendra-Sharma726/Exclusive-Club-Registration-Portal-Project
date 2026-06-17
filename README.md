@@ -1,5 +1,3 @@
-# Exclusive-Club-Registration-Portal-Project
-
 # Exclusive Club Registration Portal Project
 
 ## Project Overview
